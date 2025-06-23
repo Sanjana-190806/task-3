@@ -1,1 +1,1 @@
-# task-3
+Plagiarism detection is a critical task in both educational and professional environments, ensuring the originality and integrity of written content. This project leverages machine learning techniques to build a robust and scalable plagiarism detection system capable of identifying textual similarities and potential instances of copied content.
